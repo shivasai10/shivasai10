@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hello, I'm SHIVASAI
 
-<!--
-**shivasai10/shivasai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 DevOps Engineer Portfolio
 
-Here are some ideas to get you started:
+## 🔹 Introduction
+I'm a seasoned DevOps Engineer with over 8 years of hands-on experience in designing, automating, and managing scalable infrastructure and deployment pipelines. I bring deep expertise in cloud platforms like AWS and Azure, container orchestration with Kubernetes, infrastructure as code (IaC), and CI/CD pipeline development. I’m passionate about streamlining development workflows, enhancing system reliability, and fostering a culture of automation and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objective
+To leverage my DevOps expertise in building reliable, secure, and scalable systems while continuously improving deployment practices. I aim to contribute to open-source projects, share my knowledge through technical content, and collaborate with developers and engineers to solve complex infrastructure challenges using modern DevOps tools and cloud-native technologies.
+
+## 🛠️ Skills
+
+**Operating Systems:** Linux, Ubuntu, CentOS, Windows  
+**Programming Languages:** Python, Shell  
+**Databases:** MySQL, Oracle  
+**Configuration Management:** Terraform, Puppet, Chef, Ansible, Gradle, Docker, JIRA, Confluence  
+**Monitoring & Logging:** CloudWatch, CloudTrail  
+**Cloud Technologies:** AWS (EC2, VPC, S3, ELB, EBS, EFS, RDS, EKS, IAM, AMI, Auto Scaling), Azure  
+**CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI, Azure Pipelines  
+**Cloud Platforms:** AWS, Azure, Google Cloud  
+**SDLC Methodologies:** Agile, Scrum, Waterfall  
+**Version Control:** Git, GitHub, SVN  
+**Web Servers:** Apache, Tomcat, JBoss, WebSphere, WebLogic, Nginx  
+**Build Tools:** ANT, Maven  
+**Virtualization:** VirtualBox  
+**Networking:** TCP/IP, DNS, LAN, SMTP, Routers/Switches
+
+## 💼 Professional Experience
+
+**Peapod Digital Labs**  
+**Sr DevOps Engineer** | Mar 2021 – Dec 2022  
+**Project:** Secure AWS & Kubernetes Infrastructure Automation  
+
+**Splunk**  
+**Sr DevOps Engineer** | Mar 2021 – Dec 2022  
+**Project:** Cloud Infrastructure Automation & CI/CD Optimization  
+
+**[Confidential Client]**  
+**Sr DevOps Engineer** | Present  
+**Project:** Secure Cloud Architecture & Business Continuity  
+
+**JC Penney**  
+**Sr DevOps Engineer** | Jul 2018 – Feb 2021  
+**Project:** Hybrid Cloud & Azure Kubernetes Platform  
+
+**Gigstart**  
+**Sr DevOps Engineer** | Jun 2016 – Jul 2018  
+**Project:** AWS Infrastructure Migration & Monitoring Automation
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-github-username)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://your-portfolio-url.com)
