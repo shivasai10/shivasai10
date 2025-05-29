@@ -34,7 +34,7 @@ I'm a seasoned DevOps Engineer with over 8 years of hands-on experience in desig
 **Sr DevOps Engineer** | Mar 2021 – Dec 2022  
 **Project:** Cloud Infrastructure Automation & CI/CD Optimization  
 
-**Bullhorn-MA **  
+**BULLHORN **  
 **Sr DevOps Engineer** | Present  
 **Project:** Secure Cloud Architecture & Business Continuity  
 
