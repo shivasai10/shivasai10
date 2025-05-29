@@ -50,6 +50,5 @@ To leverage my DevOps expertise in building reliable, secure, and scalable syste
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-sai-gourishetti-218a71352/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-github-username)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.gourishivasai06@example.com)  
 [![Portfolio](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://your-portfolio-url.com)
