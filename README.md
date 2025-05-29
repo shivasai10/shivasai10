@@ -1,12 +1,11 @@
-#  SHIVASAI
+#  SHIVASAI Gourishetti
 
-# 👨‍💻 DevOps Engineer Portfolio
+# 👨‍💻 DevOps Engineer |AWS Certified Developer Associate
 
 ## 🔹 Introduction
 I'm a seasoned DevOps Engineer with over 8 years of hands-on experience in designing, automating, and managing scalable infrastructure and deployment pipelines. I bring deep expertise in cloud platforms like AWS and Azure, container orchestration with Kubernetes, infrastructure as code (IaC), and CI/CD pipeline development. I’m passionate about streamlining development workflows, enhancing system reliability, and fostering a culture of automation and continuous improvement.
 
-## 🎯 Objective
-To leverage my DevOps expertise in building reliable, secure, and scalable systems while continuously improving deployment practices. I aim to contribute to open-source projects, share my knowledge through technical content, and collaborate with developers and engineers to solve complex infrastructure challenges using modern DevOps tools and cloud-native technologies.
+## 🎯 Resume
 
 ## 🛠️ Skills
 
@@ -35,7 +34,7 @@ To leverage my DevOps expertise in building reliable, secure, and scalable syste
 **Sr DevOps Engineer** | Mar 2021 – Dec 2022  
 **Project:** Cloud Infrastructure Automation & CI/CD Optimization  
 
-**[Confidential Client]**  
+**Bullhorn-MA **  
 **Sr DevOps Engineer** | Present  
 **Project:** Secure Cloud Architecture & Business Continuity  
 
@@ -49,6 +48,6 @@ To leverage my DevOps expertise in building reliable, secure, and scalable syste
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-sai-gourishetti-218a71352/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com//in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.gourishivasai06@example.com)  
 [![Portfolio](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://your-portfolio-url.com)
