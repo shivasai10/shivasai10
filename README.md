@@ -48,6 +48,6 @@ I'm a seasoned DevOps Engineer with over 8 years of hands-on experience in desig
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com//in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-sai-gourishetti-218a71352//in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.gourishivasai06@example.com)  
 [![Portfolio](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://your-portfolio-url.com)
