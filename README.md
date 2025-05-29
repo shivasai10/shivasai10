@@ -44,7 +44,7 @@ To leverage my DevOps expertise in building reliable, secure, and scalable syste
 **Project:** Hybrid Cloud & Azure Kubernetes Platform  
 
 **Gigstart**  
-**Sr DevOps Engineer** | Jun 2016 – Jul 2018  
+**DevOps Engineer** | Jun 2016 – Jul 2018  
 **Project:** AWS Infrastructure Migration & Monitoring Automation
 
 ## 🔗 Connect with Me
